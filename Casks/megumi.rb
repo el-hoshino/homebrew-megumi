@@ -4,7 +4,7 @@ cask 'megumi' do
 
   url 'https://github.com/el-hoshino/megumi/releases/download/version%2F0.1.0/megumi.zip'
   name 'megumi'
-  homepage ''
+  homepage 'https://github.com/el-hoshino/megumi'
 
   binary 'megumi'
 end
