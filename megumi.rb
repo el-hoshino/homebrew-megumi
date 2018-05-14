@@ -1,8 +1,8 @@
  class Megumi < Formula
   desc "A URL string encoder program"
   homepage "https://github.com/el-hoshino/megumi"
-  url "https://github.com/el-hoshino/megumi/archive/version/0.1.0.tar.gz"
-  sha256 "3bd4b6a6056af64863aad0ed87460e80b194a79de44f4b9e8e42307db9414d80"
+  url "https://github.com/el-hoshino/megumi/archive/version/0.1.1.tar.gz"
+  sha256 "cd816c55a3c1d8e57a73d6cc61e153bfbaab786427a91a4b803fdad8d564f442"
    def install
     system "xcodebuild"
     bin.install "build/Release/megumi"
